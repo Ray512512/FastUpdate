@@ -114,7 +114,6 @@ UpdateAppUtils.needFitAndroidN(false)
 ##### 适配Android6.0
 关于6.0适配，请自行在调用API时申请WRITE_EXTERNAL_STORAGE权限，可以参考demo中的代码
 
-#### 文章地址：[《UpdateAppUtils一行代码实现app在线更新》](http://www.jianshu.com/p/9c91bb984c85)
 
 
 #### 更新日志
